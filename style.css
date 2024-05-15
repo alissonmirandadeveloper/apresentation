@@ -1,0 +1,11 @@
+/* @theme blue */
+
+@import "default";
+
+
+section.invert {
+    background-color: blueviolet;
+}
+section.topic h2 {
+    text-align: center;
+}
