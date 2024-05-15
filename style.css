@@ -4,8 +4,12 @@
 
 
 section.invert {
-    background-color: blueviolet;
+    background-color: rgb(241, 22, 7);
 }
 section.topic h2 {
+    text-align: center;
+}
+
+section.minha_class h1{
     text-align: center;
 }
