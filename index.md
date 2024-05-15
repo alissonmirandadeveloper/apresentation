@@ -2,7 +2,7 @@
 marp: true
 theme: gaia
 paginate: true
-permalink: /index.html
+permalink: /index.md
 ---
 
 ![bg cover left](https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/04/21/pc-gamer-thumb-ts56rack6f6u.jpg)
