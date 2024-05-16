@@ -1,8 +1,7 @@
 ---
 marp: true
-theme: gaia
+theme: blue
 paginate: true
-permalink: /index.md
 ---
 
 ![bg cover left](https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/04/21/pc-gamer-thumb-ts56rack6f6u.jpg)
@@ -14,7 +13,9 @@ Aula prática passo a passo para montar um pc
 ##### by Alisson Miranda ![w:50px](professor-no-quadro.png)
 
 ---
+
 <!-- _class: topic -->
+
 <style>
     section.topic h2 {
         text-align: center;
@@ -32,14 +33,27 @@ Aula prática passo a passo para montar um pc
 
 ## Componentes principais
 
-![bg fit right:50%](giphy.gif)  
+![bg fit right:50%](../giphy.gif)  
 A **_placa mãe_**, ela gerencia a interligação de todos os componentes do computador, ou seja, a placa mãe que faz todos os componentes, como processador, memória RAM, o armazenamento, conversar em entre si, é um circuito impresso.
 
 ---
-![bg](placa.png)
+![bg](../placa.png)
 
 ---
-<!-- _class: invert-->
+<!-- _class: topic-->
+
+<style>
+  section.topic table{
+    border: 1px solid #444;
+    border-collapse: collapse;
+    padding: 2px 2px 5px 2px;
+    
+  };
+
+  section.topic table {
+  background-color: red;
+}
+</style>
 | Componentes | Função                                                                  |
 |-------------|-------------------------------------------------------------------------|
 | Placa Mãe   | Gerencia a interligação de todos os componentes do computador           |
@@ -63,12 +77,12 @@ São importantíssimas para o bom funcionamento da placa mãe e todos os compone
 ---
 
 * Fonte PFC Ativo
-![bg fit right:60%](image.png)
+![bg fit right:60%](../image.png)
 
 ---
 
 * Fonte PFC Passivo
-![bg fit right:60%](image-1.png)
+![bg fit right:60%](../image-1.png)
 
 ---
 
