@@ -143,13 +143,6 @@ Serve para ligar o botão de liga/desliga, ubs frontais, botão de reset
 
 ---
 
-<!-- _class: topo-->
-# Conexões
-## Frontal
-![bg fit right:50%](img/frontal.png)
-Serve para ligar o botão de liga/desliga, ubs frontais, botão de reset
-
----
 ### Fonte de alimentação
 
 São importantíssimas para o bom funcionamento da placa mãe e todos os componentes conectados a ela, pois de acordo com o **_modelo_** e **_potencia_** contribuirá para a vida útil e assim evitar queimar a placa mãe e seus componentes.
