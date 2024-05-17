@@ -82,6 +82,23 @@ A **_placa mãe_**, ela gerencia a interligação de todos os componentes do com
 São “os encaixes” que as placas-mãe possuem para instalação dos processadores.
 
 ---
+<style>
+  section.topo2 p{
+    text-align: justify;
+  }
+  section.topo2 h1 {
+    text-align: center;
+    color: brown;
+    text-decoration: underline;
+  }
+</style>
+<!-- _class: topo2-->
+# Conexões
+## Cooler
+![bg fit right:50%](../img/cooler.png)
+Coolers, que você também pode chamar de fans ou de ventoinhas, são necessários em computadores para aumentar a circulação de ar de forma a melhorar a capacidade do equipamento em dissipar calor no ambiente. Controlar o calor é fundamental para boa performance, vida útil prolongada e até mesmo manter consumo de energia sob controle.
+
+---
 <!-- _class: topo-->
 # Conexões
 ## Cabo de 24 pinos
