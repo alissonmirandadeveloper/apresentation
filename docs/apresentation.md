@@ -10,7 +10,7 @@ paginate: true
 
 Aula prática passo a passo para montar um pc
 
-##### by Alisson Miranda ![w:50px](professor-no-quadro.png)
+##### by Alisson Miranda, Eduardo Sousa and Kawã Moises ![w:50px](../professor-no-quadro.png)
 
 ---
 
@@ -26,8 +26,9 @@ Aula prática passo a passo para montar um pc
 
 ## Assuntos da aula de hoje
 
-* Conhecer os componentes principais (**_Revisão_**)
+* Conhecer os cabos e conexões
 * Ferramentas úteis
+* Montagem na prática
 
 ---
 
@@ -66,6 +67,89 @@ A **_placa mãe_**, ela gerencia a interligação de todos os componentes do com
 | Fonte de Alimentacao         | Responsável por mandar energia para a placa mãe (24 pinos).                                  |
 ---
 
+<style>
+    section.topo h1 {
+        text-align: center;
+        color: brown;
+        text-decoration: underline;
+
+    }
+</style>
+<!-- _class: topo-->
+# Conexões
+## Soquete do processador
+![bg fit right:50%](../img/soquete.png)
+São “os encaixes” que as placas-mãe possuem para instalação dos processadores.
+
+---
+<!-- _class: topo-->
+# Conexões
+## Cabo de 24 pinos
+![bg fit right:50%](../img/conector_24pinos.png)
+Cabo de alimentação de 24 pinos sua função é fornecer energia para toda a placa mãe.
+
+---
+<!-- _class: topo-->
+# Conexões
+## IPS 12v ou ATX
+![bg fit right:50%](../img/conexão_processador.png)
+Cabo de alimentação para fornecer energia para o cooler e processador (energia a mais). 
+
+---
+<!-- _class: topo-->
+# Conexões
+## PWM
+![bg fit right:50%](../img/pwm_ventoninha.png)
+Sua função é alimentar as ventoinhas, possui normalmente 4 pinos e ficam próximas do processdor. 
+
+---
+<!-- _class: topo-->
+# Conexões
+## Conector sata
+![bg fit right:50%](../img/conector_sata.png)
+Conectores para dados para ligar hd, ssd e gravadora de dvd
+
+---
+
+<!-- _class: topo-->
+# Conexões
+## conexão frontal 2.0
+![bg fit right:50%](../img/conexão2.0.png)
+Conexão para alimentar dados usb 2.0 de 9 pinos
+
+---
+
+<!-- _class: topo-->
+# Conexões
+## PCI Express x16
+![bg fit right:50%](../img/pci_express16.png)
+Um padrão que permite que diversos tipos de dispositivos, como placas de vídeo, sejam conectados a um computador
+
+---
+
+<!-- _class: topo-->
+# Conexões
+## Slot memória RAM
+![bg fit right:50%](../img/slot_memoria-ram.png)
+Slot memória memória RAM, há variações de acordo com o tipo, podem ser: DDR2(antigo), DDR3, DDR4 e DDR5. Nome técnico: **DIMM**: _Dual inline memory module_. DIMMs são módulos de memória para sistemas de desktop.
+
+---
+
+<!-- _class: topo-->
+# Conexões
+## Frontal
+![bg fit right:50%](../img/FRONTAL2.JPG)
+Serve para ligar o botão de liga/desliga, ubs frontais, botão de reset
+
+---
+
+<!-- _class: topo-->
+# Conexões
+## Frontal
+![bg fit right:50%](img/frontal.png)
+Serve para ligar o botão de liga/desliga, ubs frontais, botão de reset
+
+---
 ### Fonte de alimentação
 
 São importantíssimas para o bom funcionamento da placa mãe e todos os componentes conectados a ela, pois de acordo com o **_modelo_** e **_potencia_** contribuirá para a vida útil e assim evitar queimar a placa mãe e seus componentes.
@@ -102,35 +186,3 @@ São importantíssimas para o bom funcionamento da placa mãe e todos os compone
 5. Armazenamento SSD ou HD
 6. Fonte de Alimentação de boa qualidade (PFC Ativo e eficiência de energia)
 7. Gabinete compatível com a placa mãe e peças (Tamanho)
-
----
-<!-- _class: minha_class -->
-# Passo a passo 1º Etapa
-
-- [ ] checar todas as peças
-* [ ] posicionar placa mãe em local plano e seguro
-* [ ] Instalar o processador na placa mãe observando a posição correta
-* [ ] Instalar a memória RAM no slot correto
-* [ ] colocar pasta térmica no processador
-* [ ] inserir o cooler sobre o processador e **parafusar** em diagonal
-* [ ] Ligar o cooler na placa mãe (CPU FAN)
-
----
-
-# Passo a passo 2º Etapa
-
-- [ ] Inserir o espelho da placa mãe no Gabinete
-* [ ] Encaixar a placa mãe no gabinte corretamente alinhando ao espelho e parafusá-la
-* [ ] Inserir a fonte com a ventoinha para baixo no local correto e parafusar em diagonal
-* [ ] Inserir o SSD/HD com a conexão sata e alimentação para frente
-* [ ] O cabo de 24 pinos será conectado na placa mãe
-* [ ] Os cabos satas são para o armazenamento seja HD, SSD ou gravadora
-* [ ] O cabos de 8 pinos são para a placa de vídeo caso precise
-* [ ] O cabo 4/8 pino é para processador
-* [ ] Cabo molex fornece energia para as fans
-
----
-
-## Fonte de 24 pinos
-
-![right:50%](image-2.png)
